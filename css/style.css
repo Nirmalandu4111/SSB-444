@@ -1,0 +1,462 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* position: absolute; */
+}
+
+header {
+
+    overflow: hidden;
+    margin: 30px 5%;
+}
+
+.logo {
+
+    width: 50%;
+    float: left;
+}
+
+.menu {
+
+
+    width: 10%;
+    float: right;
+    position: absolute;
+    margin-left: 87%;
+    /* left: 94%; */
+
+}
+
+
+.banner {
+
+    background-color: #e9e9e9;
+    margin: 30px 10%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.content {
+
+
+    margin: 50px 10%;
+    height: 400px;
+    /* overflow: hidden; */
+    /* position: absolute; */
+}
+
+.project-title {
+
+
+    float: left;
+    width: 45%;
+    height: 400px;
+}
+
+.project-title h1 {
+
+
+    padding bottom: 20px;
+
+}
+
+.project-title p {
+
+
+    /* left: 2%; */
+    padding-top: 170px;
+    text-align: justify;
+    padding-left: 20%;
+    /* width: 101%; */
+}
+
+
+
+.project-image {
+
+    height: 400px;
+    width: 45%;
+    background-color: #e9e9e9;
+    float: right;
+    /* overflow: hidden; */
+}
+
+.project-image img {
+    width: 100%;
+    height: 400px;
+}
+
+.profile {
+
+
+    width: 82%;
+    margin: 30px 10%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.profile-one {
+
+    width: 30%;
+    height: 250px;
+    background-color: #e9e9e9;
+    float: left;
+    background-color: #;
+
+    * {
+        margin: 0;
+        padding: 0;
+        /* position: absolute; */
+    }
+
+    header {
+
+        overflow: hidden;
+        margin: 30px 5%;
+    }
+
+    .logo {
+
+        width: 30%;
+        float: left;
+    }
+
+    .menu {
+
+
+        width: 20%;
+        float: right;
+        position: absolute;
+        margin-left: 87%;
+        /* left: 94%; */
+
+    }
+
+
+    .banner {
+
+        background-color: #e9e9e9;
+        margin: 30px 10%;
+        height: 500px;
+    }
+
+    .banner img {}
+
+    .content {
+
+
+        margin: 50px 10%;
+        height: 400px;
+        overflow: hidden;
+        position: absolute;
+    }
+
+    .project-title {
+
+
+        float: left;
+        width: 45%;
+        height: 400px;
+    }
+
+    .project-title h1 {
+
+
+        padding bottom: 20px;
+
+    }
+
+    .project-title p {
+
+
+        /* left: 2%; */
+        padding-top: 170px;
+        text-align: justify;
+        padding-left: 20%;
+        /* width: 101%; */
+    }
+
+
+
+
+
+    .project-image {
+
+        height: 400px;
+        width: 45%;
+        background-color: #e9e9e9;
+        float: right;
+    }
+
+
+    .profile {
+
+        overflow: hidden
+    }
+}
+
+
+.profile-one {
+    width: 30%;
+    height: 250px;
+    background-color: #e9e9e9;
+    float: left;
+
+    margin-right: 4%;
+}
+
+.profile-two {
+
+    width: 30%;
+    height: 250px;
+    background-color: #e9e9e9;
+    float: left;
+    margin-right: 3%;
+}
+
+.profile-three {
+
+
+    width: 30%;
+    height: 250px;
+    background-color: #e9e9e9;
+    float: left;
+    margin-right: 3%;
+}
+
+.profile-one img {
+    width: 100%;
+    height: 250px;
+}
+
+.profile-two img {
+    width: 100%;
+    height: 250px;
+}
+
+.profile-three img {
+
+    width: 100%;
+    height: 250px;
+}
+
+.project {
+
+
+    width: 80%;
+    height: 150px;
+    margin: 30px 10%;
+    /* overflow: hidden; */
+}
+
+.project-date {
+
+    float: left;
+    width: 30%;
+    height: 150px;
+}
+
+.project-date h1 {}
+
+.project-date p {
+
+
+    padding-top: 35px;
+}
+
+.project-challenge {
+
+    float: right;
+    height: 150px;
+    width: 45%;
+}
+
+.project-challenge h1 {}
+
+.project-challenge p {
+
+    padding-left: 8%;
+    paddin-left: 5px;
+    padding-top: 35px;
+}
+
+.role {
+
+    width: 80%;
+    height: 150px;
+    margin: 30px 10%;
+    overflow: hidden;
+}
+
+.role-part {
+
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+
+.role-part h1 {}
+
+.role-part p {
+
+    padding-top: 35px;
+}
+
+.approach {
+
+    width: 45%;
+    height: 150px;
+    float: right;
+    /* margin-left: 16%; */
+}
+
+
+.approach h1 {}
+
+.approach p {
+
+    padding-top: 35px;
+    padding-left: 8%;
+}
+
+.picture {
+
+    width: 80%;
+    height: 400px;
+    overflow: hidden;
+    margin: 30px 10%;
+}
+
+.image-one {
+
+    float: left;
+    width: 47%;
+    height: 400px;
+}
+
+.image-one img {
+
+    width: 100%;
+}
+
+.image-two {
+
+    width: 47%;
+    height: 400px;
+    float: right;
+}
+
+.image-two img {
+
+    width: 100%;
+}
+
+.banner-two {
+
+    /* background-color: #e9e9e9; */
+    margin: 30px 10%;
+    height: 810px;
+    overflow: hidden;
+}
+
+.banner-two img {
+    width: 100%;
+}
+
+.loadmore {
+
+    margin: 100px 0;
+    text-align: center;
+}
+
+button {
+
+    background-color: transparent;
+    border: none;
+    border: 1px solid;
+    padding: 20px 10px;
+}
+
+.button h3 {
+
+    text-transform: capitalize;
+    font-weight: 200;
+}
+
+footer {
+    overflow: hidden;
+    width: 90%;
+    height: 350px;
+    margin: 30px 5%;
+}
+
+.contact {
+
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+}
+
+.contact h5 {
+
+    color: #;
+    color: #161616;
+    margin-bottom: 15px;
+}
+
+.contact input {
+    border: none;
+    cursor: pointer;
+}
+
+.social-media {
+
+    width: 30%;
+    float: left;
+}
+
+.social-media ul {
+
+    list-style: none;
+    margin-left: 22%;
+}
+
+.social-media ul li {
+
+    text-decoration: none;
+    padding-bottom: 15px;
+}
+
+.social-media ul li a {
+
+    color: #999999;
+    text-decoration: none;
+}
+
+.about {
+
+    width: 30%;
+    float: left;
+    list-style: none;
+}
+
+.about ul {
+
+    list-style: none;
+}
+
+.about ul li {
+
+    margin-bottom: 15px;
+}
+
+.about ul li a {
+
+    text-decoration: none;
+    color: #;
+    color: #999999;
+}
